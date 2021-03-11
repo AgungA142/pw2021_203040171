@@ -2,7 +2,7 @@
 /*
 agung alfatah
 203040171
-https://github.com/sacred142/pw2021_203040171
+https://github.com/AgungA142/pw2021_203040171
 Pertemuan 2 - 12 februari 2021
 belajar mengenai sintax PHP
 */

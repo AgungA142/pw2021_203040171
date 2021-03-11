@@ -2,7 +2,7 @@
 /*
 agung alfatah
 203040171
-https://github.com/sacred142/pw2021_203040171
+https://github.com/AgungA142/pw2021_203040171
 Pertemuan 3 - 25 februari 2021
 belajar mengenai struktur kendali pengulangan dan penulisan templating
 */

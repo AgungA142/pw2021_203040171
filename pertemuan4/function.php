@@ -2,7 +2,7 @@
 /*
 agung alfatah
 203040171
-https://github.com/sacred142/pw2021_203040171
+https://github.com/AgungA142/pw2021_203040171
 Pertemuan 4 - 5 maret 2021
 belajar mengenai membuat function kita sendiri
 */
