@@ -9,21 +9,21 @@ belajar mengenai assoiactive array dan cara penggunannya
 ?>
 
 <?php
-$mahasiswa =[
+$gacha =[
 [
-    "Nama" =>"Agung A",
-    "Nrp" =>"203040171",
-    "Email" =>"agung.alfatah43@gmail.com",
-    "Jurusan" =>"Teknik Informatika",
-    "gambar" =>""
+    "Nama" =>"Gacha Character",
+    "Pity" =>"49",
+    "Game" =>"Genshin Impact",
+    "Date" =>"7 maret 2021",
+    "gambar" =>"gacha1.png"
 ],
 
 [
-    "Nama" =>"Sendi",
-    "Nrp" =>"203040041",
-    "Email" =>"sendi44@gmail.com",
-    "Jurusan" =>"Teknik Industri",
-    "gambar" =>""
+    "Nama" =>"gacha Waepon",
+    "Pity" =>"41",
+    "Game" =>"Genshin Impact",
+    "Date" =>"11 maret 2021",
+    "gambar" =>"gacha2.png"
 ]
 ];
 ?>
@@ -37,17 +37,17 @@ $mahasiswa =[
     <title>Document</title>
 </head>
 <body>
-    <h1>Daftar Mahasiswa</h1>
+    <h1>History Gacha</h1>
 
-    <?php foreach($mahasiswa as $mhs) : ?>
+    <?php foreach($gacha as $g) : ?>
         <ul>
             <li>
-                <img src="img/<?= $mhs["gambar"] ?>" alt="">
+                <img src="img/<?= $g["gambar"] ?>" alt="" width="200px">
             </li>
-            <li>Nama : <?= $mhs["Nama"] ?></li>
-            <li>NRP : <?= $mhs["Nrp"] ?></li>
-            <li>Jurusan : <?= $mhs["Jurusan"] ?></li>
-            <li>Email : <?= $mhs["Email"] ?></li>
+            <li>Nama : <?= $g["Nama"] ?></li>
+            <li>Pity : <?= $g["Pity"] ?></li>
+            <li>Game : <?= $g["Game"] ?></li>
+            <li>Date : <?= $g["Date"] ?></li>
         </ul>
     <?php endforeach; ?>    
 </body>
