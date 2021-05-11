@@ -147,10 +147,10 @@ if(isset($_GET['search'])) {
         </div>
         <div class="col l4 offset-l2 s12">
           <h5 class="white-text">Owner's social-media</h5>
-          <ul id="contact" class="contact">
-            <li><a href="https://www.instagram.com/agung.alfatah/?hl=id" target="_blank"><img src="img/instagram.png" alt=""></a></li>
-            <li><a href="https://web.facebook.com/agung.alfatah101/" target="_blank"><img src="img/facebook.png" alt=""></a></li>
-            <li><a href="https://twitter.com/AgungAlfatah5" target="_blank"><img src="img/twitter.png" alt=""></a></li>
+          <ul id="contact" class="contact" style="display: flex; ">
+            <li><a style="margin:0px 15px 0px 15px;" href="https://www.instagram.com/agung.alfatah/?hl=id" target="_blank"><img src="img/instagram.png" alt=""></a></li>
+            <li><a style="margin:0px 15px 0px 15px;" href="https://web.facebook.com/agung.alfatah101/" target="_blank"><img src="img/facebook.png" alt=""></a></li>
+            <li><a style="margin:0px 15px 0px 15px;" href="https://twitter.com/AgungAlfatah5" target="_blank"><img src="img/twitter.png" alt=""></a></li>
           </ul>
         </div>
       </div>
