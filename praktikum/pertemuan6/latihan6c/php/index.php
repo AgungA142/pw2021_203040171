@@ -60,21 +60,7 @@ if(isset($_GET['search'])) {
 
 
 
-  <div class="container">
-     <nav>
-    <div class="nav-wrapper grey lighten-2">
-      <form action="" method="GET">
-        <div class="input-field">
-          <input id="search" type="search" name="keyword" placeholder="Find items" autofocus>
-          <label class="label-icon" for="search"><i class="material-icons">search</i>
-            <button class="waves-effect waves-light btn blue lighten-3 center" type="submit" name="search">Search</button>
-          </label>
-          <i class="material-icons">close</i>
-        </div>
-      </form>
-    </div>
-  </nav>
-     </div>
+ 
     
 
 
@@ -87,6 +73,24 @@ if(isset($_GET['search'])) {
     <div class="container">
         <div class="row">
             <h3 class="light center grey-text text-darken-3">Our Product</h3>
+            <div class="container">
+     <nav>
+    <div class="nav-wrapper grey lighten-2">
+      <form action="" method="GET">
+        <div class="input-field">
+          <input id="search" type="search" name="keyword" placeholder="Find items" autofocus>
+          <label class="label-icon" for="search"><i class="material-icons">search</i>
+          </label>
+          <button class="waves-effect waves-light btn blue lighten-3 center" type="submit" name="search">Search</button>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
+    </div>
+  </nav>
+     </div>
+     <br>
+     <br>
+     <br>
             <div class="col m12 s12">
                 <div class="card">
                     <div class="card-content">

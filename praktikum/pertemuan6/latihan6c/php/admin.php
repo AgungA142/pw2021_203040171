@@ -127,8 +127,8 @@ if(isset($_GET['search'])) {
           <?php endif;?>
         </tbody>
       </table>
-      <a href="tambah.php" class="waves-effect waves-light btn blue lighten-3 center"><i class="material-icons left">add</i>Add data</a>
       </div>
+      <a href="tambah.php" class="waves-effect waves-light btn blue lighten-3 center"><i class="material-icons left">add</i>Add data</a>
 
 
       
