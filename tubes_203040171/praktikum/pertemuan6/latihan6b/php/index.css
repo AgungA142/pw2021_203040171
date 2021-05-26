@@ -1,0 +1,38 @@
+.brand-logo img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+
+.navbar-fixed .black {
+    height: 100px;
+}
+
+
+.carousel {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+.background {
+    background-color:white;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 100px;
+}
+.carousel p img {
+    width: 275px;
+    height: 275px;
+}
+
+
+
+.background-testi {
+    background-color: white;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 100px;
+}
+
+
