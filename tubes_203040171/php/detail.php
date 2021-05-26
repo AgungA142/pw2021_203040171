@@ -73,8 +73,8 @@ $shoes = query("SELECT * FROM shoes WHERE id =$id")[0];
       <img class="activator" src="img/<?= $shoes["pict"] ?>" alt=""  >
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Item Detail<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">Buy</a></p>
+      <span class="card-title activator grey-text text-darken-4">Item Detail</span>
+      <p><a href="form.php?id=<?= $shoes['id']?>">Buy</a></p>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4">Detail<i class="material-icons right">close</i></span>

@@ -45,10 +45,20 @@
 
 </ul>
 <ul id="dropdown2" class="dropdown-content">
-  <li><a href="#!">Pertemuan 1</a></li>
-  <li><a href="#!">Pertemuan 2</a></li>
+  <li><a href="kuliah/pertemuan2/">Pertemuan 2</a></li>
+  <li><a href="kuliah/pertemuan3/">Pertemuan 3</a></li>
+  <li><a href="kuliah/pertemuan4/">Pertemuan 4</a></li>
+  <li><a href="kuliah/pertemuan5/">Pertemuan 5</a></li>
   <li class="divider"></li>
-  <li><a href="#!">Pertemuan 3</a></li>
+  <li><a href="kuliah/pertemuan6/">Pertemuan 6</a></li>
+  <li><a href="kuliah/pertemuan7/">Pertemuan 7</a></li>
+  <li><a href="kuliah/pertemuan8/">Pertemuan 8</a></li>
+  <li><a href="kuliah/pertemuan9/">Pertemuan 9</a></li>
+  <li class="divider"></li>
+  <li><a href="kuliah/pertemuan10/">Pertemuan 10</a></li>
+  <li><a href="kuliah/pertemuan11/">Pertemuan 11</a></li>
+  <li><a href="kuliah/pertemuan12/">Pertemuan 12</a></li>
+  <li><a href="kuliah/pertemuan13/">Pertemuan 13</a></li>
 </ul>
 <nav>
   <div class="nav-wrapper">
@@ -73,7 +83,7 @@
       <div class="row center ">
         <div class="col s12 m12 ">
           <h2 class="black-text">SELAMAT DATANG</h2>
-          <p>Halaman ini merupakan Landing page yang berisi seluruh kegiatan perkuliahan pemograman web di universitas pasundan pada tahun 2021 yang saya kerjakan .</p>
+          <p>Halaman ini merupakan Landing page yang berisi seluruh kegiatan perkuliahan pemograman web di universitas pasundan pada tahun 2021 yang saya kerjakan Link dapat diakses melalui navbar atau tombol dibawah.</p>
         </div>
       </div>
       <div class="row center">
