@@ -34,31 +34,31 @@
  <header>
  <div class="navbar-fixed">
 <ul id="dropdown1" class="dropdown-content">
-  <li><a href="praktikum/pertemuan1/">Pertemuan 1</a></li>
-  <li><a href="praktikum/pertemuan2/">Pertemuan 2</a></li>
+  <li><a href="praktikum/pertemuan1">Pertemuan 1</a></li>
+  <li><a href="praktikum/pertemuan2">Pertemuan 2</a></li>
   <li class="divider"></li>
-  <li><a href="praktikum/pertemuan3/">Pertemuan 3</a></li>
-  <li><a href="praktikum/pertemuan4/">Pertemuan 4</a></li>
+  <li><a href="praktikum/pertemuan3">Pertemuan 3</a></li>
+  <li><a href="praktikum/pertemuan4">Pertemuan 4</a></li>
   <li class="divider"></li>
-  <li><a href="praktikum/pertemuan5/">Pertemuan 5</a></li>
-  <li><a href="praktikum/pertemuan6/">Pertemuan 6</a></li>
+  <li><a href="praktikum/pertemuan5">Pertemuan 5</a></li>
+  <li><a href="praktikum/pertemuan6">Pertemuan 6</a></li>
 
 </ul>
 <ul id="dropdown2" class="dropdown-content">
-  <li><a href="kuliah/pertemuan2/">Pertemuan 2</a></li>
-  <li><a href="kuliah/pertemuan3/">Pertemuan 3</a></li>
-  <li><a href="kuliah/pertemuan4/">Pertemuan 4</a></li>
-  <li><a href="kuliah/pertemuan5/">Pertemuan 5</a></li>
+  <li><a href="kuliah/pertemuan2">Pertemuan 2</a></li>
+  <li><a href="kuliah/pertemuan3">Pertemuan 3</a></li>
+  <li><a href="kuliah/pertemuan4">Pertemuan 4</a></li>
+  <li><a href="kuliah/pertemuan5">Pertemuan 5</a></li>
   <li class="divider"></li>
-  <li><a href="kuliah/pertemuan6/">Pertemuan 6</a></li>
-  <li><a href="kuliah/pertemuan7/">Pertemuan 7</a></li>
-  <li><a href="kuliah/pertemuan8/">Pertemuan 8</a></li>
-  <li><a href="kuliah/pertemuan9/">Pertemuan 9</a></li>
+  <li><a href="kuliah/pertemuan6">Pertemuan 6</a></li>
+  <li><a href="kuliah/pertemuan7">Pertemuan 7</a></li>
+  <li><a href="kuliah/pertemuan8">Pertemuan 8</a></li>
+  <li><a href="kuliah/pertemuan9">Pertemuan 9</a></li>
   <li class="divider"></li>
-  <li><a href="kuliah/pertemuan10/">Pertemuan 10</a></li>
-  <li><a href="kuliah/pertemuan11/">Pertemuan 11</a></li>
-  <li><a href="kuliah/pertemuan12/">Pertemuan 12</a></li>
-  <li><a href="kuliah/pertemuan13/">Pertemuan 13</a></li>
+  <li><a href="kuliah/pertemuan10">Pertemuan 10</a></li>
+  <li><a href="kuliah/pertemuan11">Pertemuan 11</a></li>
+  <li><a href="kuliah/pertemuan12">Pertemuan 12</a></li>
+  <li><a href="kuliah/pertemuan13">Pertemuan 13</a></li>
 </ul>
 <nav>
   <div class="nav-wrapper">
@@ -103,12 +103,12 @@
           <div class="modal-content">
             <ul class="collection with-header">
              <li class="collection-header"><h4>Praktikum</h4></li>
-             <li class="collection-item"><a href="praktikum/pertemuan1/">Pertemuan 1</a></li>
-             <li class="collection-item"><a href="praktikum/pertemuan2/">Pertemuan 2</a></li>
-             <li class="collection-item"><a href="praktikum/pertemuan3/">Pertemuan 3</a></li>
-             <li class="collection-item"><a href="praktikum/pertemuan4/">Pertemuan 4</a></li>
-             <li class="collection-item"><a href="praktikum/pertemuan5/">Pertemuan 5</a></li>
-             <li class="collection-item"><a href="praktikum/pertemuan6/">Pertemuan 6</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan1">Pertemuan 1</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan2">Pertemuan 2</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan3">Pertemuan 3</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan4">Pertemuan 4</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan5">Pertemuan 5</a></li>
+             <li class="collection-item"><a href="praktikum/pertemuan6">Pertemuan 6</a></li>
             </ul>
           </div>
         </div>
@@ -117,20 +117,20 @@
             <li class="collection-header"><h4>Kuliah</h4></li>
             <div class="row">
               <div class="col m6 s12">
-                <li class="collection-item"><a href="kuliah/pertemuan2/">Pertemuan 2</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan3/">Pertemuan 3</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan4/">Pertemuan 4</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan5/">Pertemuan 5</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan6/">Pertemuan 6</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan7/">Pertemuan 7</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan2">Pertemuan 2</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan3">Pertemuan 3</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan4">Pertemuan 4</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan5">Pertemuan 5</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan6">Pertemuan 6</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan7">Pertemuan 7</a></li>
               </div>
               <div class="col m6 s12">
-                <li class="collection-item"><a href="kuliah/pertemuan8/">Pertemuan 8</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan9/">Pertemuan 9</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan10/">Pertemuan 10</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan11/">Pertemuan 11</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan12/">Pertemuan 12</a></li>
-                <li class="collection-item"><a href="kuliah/pertemuan13/">Pertemuan 13</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan8">Pertemuan 8</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan9">Pertemuan 9</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan10">Pertemuan 10</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan11">Pertemuan 11</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan12">Pertemuan 12</a></li>
+                <li class="collection-item"><a href="kuliah/pertemuan13">Pertemuan 13</a></li>
               </div>
             </div>
           </ul>
