@@ -8,16 +8,21 @@ const container = document.querySelector('.container');
 
 keyword.addEventListener('keyup', function(){
 
-    var xhr = new XMLHttpRequest();
+    // var xhr = new XMLHttpRequest();
 
-    xhr.onreadystatechange = function() {
-        if(xhr.readyState == 4 && xhr.status == 200) {
-            container.innerHTML = xhr.responseText;
-        }
-    }
+    // xhr.onreadystatechange = function() {
+    //     if(xhr.readyState == 4 && xhr.status == 200) {
+    //         container.innerHTML = xhr.responseText;
+    //     }
+    // }
 
-    xhr.open('GET', 'ajax/ajax_cari.php?keyword=' + keyword.value, true);
-    xhr.send();
+    // xhr.open('GET', 'ajax/ajax_cari.php?keyword=' + keyword.value, true);
+    // xhr.send();
+
+    fetch('ajax/ajax_cari.php?keyword=' +keyword.value)
+        .then((response) => response.text())
+        .then((response) => (container.innerHTML = response));
+
 })
 
 
